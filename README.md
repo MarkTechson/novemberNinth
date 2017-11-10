@@ -1,2 +1,2 @@
-# novemberNinth
-The most fantastical repository of all time. 2 + 2 is 4 minus 1 that's 3...quick maths
+# Welcome to the Repo
+This is a demo repository for the class
